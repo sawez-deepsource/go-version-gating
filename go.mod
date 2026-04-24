@@ -1,2 +1,2 @@
-module github.com/deepsource-test/staticcheck-version-gating
-go 1.24
+module github.com/sawez-deepsource/go-version-gating
+go 1.7
