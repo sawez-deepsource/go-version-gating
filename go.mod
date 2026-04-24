@@ -1,2 +1,2 @@
 module github.com/deepsource-test/staticcheck-version-gating
-go 1.15
+go 1.24
