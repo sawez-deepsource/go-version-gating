@@ -1,2 +1,2 @@
 module github.com/sawez-deepsource/go-version-gating
-go 1.7
+go 1.9
